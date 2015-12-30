@@ -3,3 +3,4 @@
 - **Location:** Gainesville, Florida
 - **A favorite food:** Oatmeal
 - **A hobby:** cooking
+- **Favorite color:** Brindle
