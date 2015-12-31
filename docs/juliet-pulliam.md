@@ -4,3 +4,4 @@
 - **A favorite food:** Oatmeal
 - **A hobby:** cooking
 - **Favorite color:** Brindle
+- **Editor:** nano, atom
